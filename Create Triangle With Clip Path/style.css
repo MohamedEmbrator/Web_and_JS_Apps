@@ -1,0 +1,7 @@
+.c1 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  /* clip-path: circle(50px at 50% 50%); */
+  clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+}
